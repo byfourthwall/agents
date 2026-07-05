@@ -3,9 +3,18 @@
   "permissions": {
     "allow": [
       "Bash(*)",
+      "Edit(*)",
+      "ExitPlanMode(*)",
+      "Monitor(*)",
+      "NotebookEdit(*)",
+      "PowerShell(*)",
       "Read(*)",
-      "Write(*)",
-      "Edit(*)"
+      "ShareOnboardingGuide(*)",
+      "Skill(*)",
+      "WebFetch(*)",
+      "WebSearch(*)",
+      "Workflow(*)",
+      "Write(*)"
     ]
   }
 }
